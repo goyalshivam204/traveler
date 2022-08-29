@@ -78,7 +78,7 @@ const Signin = () => {
 
             </div>
             <div className="col-sm-8 col-xs-10 col-md-4 rounded-right py-4 px-3" id="login-intro">
-                <h2 className="login-login-title text-center mt-2 h2">Welcome toTravelYaari</h2>
+                <h2 className="login-login-title text-center mt-2 h2">Welcome toTraveler</h2>
                 <img className="img-fluid img-rounded" src={sideimage} alt="signup" />
                 <p className="text-center text-warning">We Are Happy to see you here. We are working to provide the best services to you.</p>
             </div>
